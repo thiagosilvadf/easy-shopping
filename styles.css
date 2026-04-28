@@ -40,7 +40,8 @@ h1 {
     line-height: 80px;
 }
 
-p {width: 540px;
+p 
+    {width: 540px;
     font-weight: 400;
     font-size: 28px;
     line-height: 48px;
@@ -62,11 +63,11 @@ button {
         cursor: pointer;
 }
 button:hover {
-    opacity: 0.8;
+    opacity: .8;
 }
 
 button:active {
-    opacity: 0.5;
+    opacity: .5;
 }
 
 a {
