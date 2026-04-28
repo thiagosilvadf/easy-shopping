@@ -2,6 +2,7 @@
 <br>
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<p>Nesse projeto, aprendi sobre responsividade, que nada mais é, do que adaptar seu site em diversos tamanhos de telas. </p>
 
 <h2>Tecnologias Utilizadas</h2>
 
